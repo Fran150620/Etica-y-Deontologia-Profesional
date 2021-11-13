@@ -1,9 +1,5 @@
----
-title: "Correcion de Errores"
-fontsize: 12p
-lang: es
----
-<font size = 6; font color = lightpink> **Correción de errores**</font>
+
+## <font size = 6; font color = lightpink> **Correción de errores**</font> ##
  
 ##### A continuación colocaremos capturas de pantalla con la correcion de errores, utilizamos el complemento Accessibility Insights for Web 
 ### _Errores Totales_
